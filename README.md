@@ -1,0 +1,2 @@
+# Two-Phase-Evolutionary-Algorithm-for-Cloud-Workflow-Optimization
+The Two-Phase Evolutionary Algorithm optimizes cloud workflows by combining global exploration and local refinement. Phase 1 generates diverse candidate schedules to avoid local optima, while Phase 2 fine-tunes solutions for objectives like minimizing execution time, cost, and resource usage, ensuring efficient, multi-objective workflow scheduling.
